@@ -1,3 +1,3 @@
 # LILYGO-T-OI
 
-![](image/TOI.jpg)
+![](https://github.com/LilyGO/LILYGO-T-OI/blob/master/image/TOI.jpg)
